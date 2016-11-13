@@ -1,5 +1,5 @@
 var ref= top.document.referrer;
-var site1="chatango.comli.com";
+var site1="fancytext.me";
 var myElem = document.getElementById('fpix_wrapper');
 if (myElem === null) {
 myElem = document.body;
